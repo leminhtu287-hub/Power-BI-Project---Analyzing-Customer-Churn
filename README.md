@@ -1,9 +1,9 @@
 # Power-BI-Project---Analyzing-Customer-Churn
-Overview
+**Overview**
 
 A Power BI analysis examining customer churn patterns, with a focus on contract types, demographic segmentation, and the relationship between customer service interactions and churn behaviour. This project demonstrates foundational Power BI competencies: DAX measure creation, data transformation, and insight visualization.
 
-Skills Demonstrated
+**Skills Demonstrated**
 
 DAX Measures & Calculations
 
@@ -31,7 +31,7 @@ Enables comparison of churn behaviour across age cohorts without cluttering visu
 Churn Rate %: Calculated churned customer ratio as a percentage metric for key performance monitoring
 
 
-Data Transformation
+**Data Transformation**
 
 
 Created new columns for customer insights, enabling segmentation without modifying source data
@@ -39,7 +39,7 @@ Structured categorical logic (contract types, age groups) to support pivot and f
 Organized measures to isolate calculated fields from dimension tables
 
 
-Visualizations & Insights
+**Visualizations & Insights**
 
 
 Churn Trend Line: Tracked churn rate over time to identify seasonal or cumulative patterns
@@ -47,7 +47,7 @@ Churn by Region: Compared regional performance to pinpoint geographic risk areas
 Customer Service Calls vs. Churn Rate: Explored the correlation between support interaction frequency and customer retention
 
 
-Key Insights
+**Key Insights**
 
 
 Churn patterns vary significantly by contract type and customer demographic
@@ -56,7 +56,7 @@ Service call volume shows meaningful relationship with churn outcomes
 
 
 
-How to Use This Project
+**How to Use This Project**
 
 
 Open Customer_Churn_Rate_Report.pbix in Power BI Desktop
@@ -65,7 +65,7 @@ Use slicers to filter by contract type, region, or demographic group
 Examine measure calculations in the Data Model to understand DAX logic
 
 
-What This Demonstrates for Procurement Roles
+**What This Demonstrates for Procurement Roles**
 
 While this analysis focuses on customer retention, the underlying Power BI techniques directly transfer to procurement use cases:
 
